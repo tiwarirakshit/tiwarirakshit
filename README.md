@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/tiwarirakshit](https://github.com/tiwarirakshit)
 
-- 📝 I regularly write articles on [No Kidding! I don't write Blogs, I tweet a lot though. https://twitter.com/rt_02_](No Kidding! I don't write Blogs, I tweet a lot though. https://twitter.com/rt_02_)
+- 📝 I regularly write articles on [No Kidding! I don't write Blogs, I tweet a lot though. https://twitter.com/rt_02_]
 
 - 💬 Ask me about **Amazon Cloud Services, Ubuntu, Front-end Development**
 
