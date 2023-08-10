@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/rt_02_" target="blank"><img src="https://img.shields.io/twitter/follow/rt_02_?logo=twitter&style=for-the-badge" alt="rt_02_" /></a> </p>
 
-- 🔭 I’m currently working on [Saathi Samaj Sevi Sanstha](https://github.com/mohitkadwe19/saathi-sanstha)
+- 🔭 I’m currently working on [Aasabie](#)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React and React Native**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
