@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rt_02_" target="blank"><img src="https://img.shields.io/twitter/follow/rt_02_?logo=twitter&style=for-the-badge" alt="rt_02_" /></a> </p>
 
-- 🔭 I’m currently working on [Aasabie](#)
+- 🔭 I’m currently working on [Dg Mining](#)
 
 - 🌱 I’m currently learning **React and React Native**
 
